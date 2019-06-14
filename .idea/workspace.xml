@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef349098-e6b3-4245-8304-2e8aa24008b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MessageMixer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MessageMixer.js" beforeDir="false" afterPath="$PROJECT_DIR$/MessageMixer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/message.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/employee.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
+            <state relative-caret-position="901">
               <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
@@ -27,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/workAround.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="204">
               <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
               <folding>
                 <element signature="e#0#106#0" expanded="true" />
@@ -38,7 +40,20 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MessageMixer.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/message.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -63,12 +78,13 @@
       <list>
         <option value="$PROJECT_DIR$/employee.js" />
         <option value="$PROJECT_DIR$/workAround.js" />
+        <option value="$PROJECT_DIR$/message.js" />
         <option value="$PROJECT_DIR$/MessageMixer.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1167" />
+    <option name="x" value="1165" />
     <option name="y" value="370" />
     <option name="width" value="2445" />
     <option name="height" value="2140" />
@@ -79,7 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,6 +106,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,7 +140,8 @@
       <updated>1560282049677</updated>
       <workItem from="1560282050832" duration="1302000" />
       <workItem from="1560297028879" duration="731000" />
-      <workItem from="1560459824974" duration="1900000" />
+      <workItem from="1560459824974" duration="3204000" />
+      <workItem from="1560543324368" duration="899000" />
     </task>
     <task id="LOCAL-00001" summary="first entry">
       <created>1560282307585</created>
@@ -161,14 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560461359663</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="first entry">
+      <created>1560461806437</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560461806437</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3933000" />
+    <option name="totallyTimeSpent" value="6136000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="601" y="230" width="978" height="856" extended-state="0" />
+    <frame x="466" y="148" width="978" height="856" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24920467" />
@@ -213,23 +237,23 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first entry" />
     <MESSAGE value="changes to WorkAround" />
     <MESSAGE value="change in Employee" />
     <MESSAGE value="complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete" />
+    <MESSAGE value="first entry" />
+    <option name="LAST_COMMIT_MESSAGE" value="first entry" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/employee.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
+        <state relative-caret-position="901">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/workAround.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="204">
           <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding>
             <element signature="e#0#106#0" expanded="true" />
@@ -237,8 +261,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MessageMixer.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
