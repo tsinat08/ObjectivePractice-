@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef349098-e6b3-4245-8304-2e8aa24008b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessageMixer.js" beforeDir="false" afterPath="$PROJECT_DIR$/MessageMixer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/message.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/MessageMixer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -141,7 +139,7 @@
       <workItem from="1560282050832" duration="1302000" />
       <workItem from="1560297028879" duration="731000" />
       <workItem from="1560459824974" duration="3204000" />
-      <workItem from="1560543324368" duration="899000" />
+      <workItem from="1560543324368" duration="2524000" />
     </task>
     <task id="LOCAL-00001" summary="first entry">
       <created>1560282307585</created>
@@ -185,15 +183,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560461806437</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="first entry">
+      <created>1560544247849</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560544247851</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6136000" />
+    <option name="totallyTimeSpent" value="7761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="466" y="148" width="978" height="856" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24920467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -271,7 +275,7 @@
     <entry file="file://$PROJECT_DIR$/MessageMixer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
