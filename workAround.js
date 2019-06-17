@@ -1,12 +1,13 @@
-import { getcadre, calculateTax, getBenefits, calculateBonus, reimbursementEligibility} from './employee';
-import Employee from './employee';
+const {getCadre, calculateTax, getBenefits, calculateBonus, reimbursementEligibility} = require ('./employee');
+
+const Employee =require('./employee');
 function getEmployeeInformation(Salary) {
     Employee.salary = Salary;
-    console.log('Cadre: ' + cadre());
-    console.log('Tax: ' + tax());
-    console.log('Benefits: ' + benefits());
-    console.log('Bonus: ' + bonus());
-    console.log('Reimbursement Eligibility: ' + reimbursement() + '\n');
+    console.log('Cadre: ' + getCadre());
+    console.log('Tax: ' + calculateTax());
+    console.log('Benefits: ' + getBenefits());
+    console.log('Bonus: ' + calculateBonus());
+    console.log('Reimbursement Eligibility: ' + reimbursementEligibility() + '\n');
 }
 
 getEmployeeInformation(10000);
